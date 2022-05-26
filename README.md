@@ -13,7 +13,7 @@ Freeinout 是一款Android VPN应用程序，采用最新的防封锁的技术�
 
 Windows7及以上 Windows 7+ 正在开发中...
 
-安卓版 Android(10+)  Google Play <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">点击下载</a>
+安卓版 Android(10+)  Google Play <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">点击打开</a>
 
 苹果电脑版--暂不支持
 
