@@ -26,6 +26,7 @@ Ubuntu 14.04及以上 32位系统 正在开发中...
 
 Please allow some time for Freeinout to complete configurations if installing it for the first-time
 
+
 有任何使用疑问或者BUG，请在此处提交issues.谢谢
 
 
