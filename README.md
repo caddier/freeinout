@@ -25,3 +25,5 @@ Ubuntu 14.04及以上 32位系统 正在开发中...
 第一次下载安装自由行时，请等待几分钟以便完成配置
 
 Please allow some time for Freeinout to complete configurations if installing it for the first-time
+
+有任何使用疑问或者BUG，请在此处提交issues.谢谢
