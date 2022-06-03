@@ -37,4 +37,5 @@ Please allow some time for Freeinout to complete configurations if installing it
 
 ## FAQ
 
-
+1.如何获取免费使用时间？
+点击登录后的界面的右上角的黄色按钮，然后会弹出广告。每查看一个广告，会给与您5分钟的免费时间。
