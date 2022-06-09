@@ -50,4 +50,3 @@ Please allow some time for Freeinout to complete configurations if installing it
 - 6.为何要注意程序更新？
   <br>因为墙的策略在随时变化，因此我们的程序也需要随时变化。请记住一定要及时更新到最新版本。
   
-  <img src="https://github.com/vpncn/vpncn.github.io/blob/master/image/StrongVPN-speedtest-tokyo-min.png" >
