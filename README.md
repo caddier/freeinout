@@ -50,3 +50,5 @@ Please allow some time for Freeinout to complete configurations if installing it
 - 6.为何要注意程序更新？
   <br>因为墙的策略在随时变化，因此我们的程序也需要随时变化。请记住一定要及时更新到最新版本。
   
+- 7.安装新版本安装失败？
+  <br>这个通常发生在通过网页下载的方式安装可能会出现这个问题，请将老版本先卸载，然后安装新版本可以解决此问题。
