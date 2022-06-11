@@ -29,6 +29,8 @@ Please allow some time for Freeinout to complete configurations if installing it
 
 有任何使用疑问或者BUG，请在此处提交issues. 或者发送邮件到:sellusedgoodsstore@gmail.com.也欢迎大家收藏此页面。谢谢
 
+Telegram 群: https://t.me/freeinout
+
 
 ## FAQ
 
