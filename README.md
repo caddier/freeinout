@@ -2,7 +2,7 @@
 Freeinout is an android VPN application for protecting your network.
 free vpn for ever.
 
-Freeinout 是一款Android VPN应用程序，采用最新的防封锁的技术，是一款安全稳定快速的网络代理程序，我们承诺永久免费。
+Freeinout 是一款Android VPN应用程序，采用最新的防封锁的技术，是一款安全稳定快速的网络代理(VPN)程序，我们承诺永久免费。
 
 服务器节点在美国，欧洲等地，不会记录您的任何相关信息，首次使用只要一个邮箱能接收验证码即可，不需要实名信息。不会记录您的浏览记录。保证您上网的安全和匿名。
 
