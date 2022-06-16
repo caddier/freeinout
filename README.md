@@ -31,9 +31,41 @@ Please allow some time for Freeinout to complete configurations if installing it
 
 Telegram 群: https://t.me/freeinout
 
+## 安装
+<p>
+Freeinout 安装很简单，安卓手机下载安装后就能使用。 <br>
 
-## FAQ
+- 点击自由行(Freeinout)最新Android版本下载地址：<a href="https://github.com/caddier/freeinout/releases/download/v1.0.13/freeinout-v1.0.13.apk">点击下载</a><br>
 
+- 下载时手机可能会提示“文件可能有害”，我们选择“仍然下载”  <br>
+<img src="https://user-images.githubusercontent.com/45213050/173993688-28c68c45-6625-46d6-9414-96c80fbf9534.png" width="30%" height="30%" align="middle"  ><br>  
+  
+- 提示下载完成<br>
+<img src="https://user-images.githubusercontent.com/45213050/173999280-095435ba-731f-4bb5-a14e-48c3e1fa50ef.png" width="30%" height="30%" align="middle"  ><br><br> 
+
+
+- 点击安装，等待安装完成<br>
+<img src="https://user-images.githubusercontent.com/45213050/173997057-f4a990bf-8c92-4ef5-8cd6-00aebd750f48.png" width="30%" height="30%" align="middle"  ><br><br> 
+<img src="https://user-images.githubusercontent.com/45213050/173997346-ee32d0a3-908e-4503-a757-166179326494.png" width="30%" height="30%" align="middle"  ><br><br>  
+<img src="https://user-images.githubusercontent.com/45213050/173997673-5f65567d-f5a0-4fba-b30d-270a33568cfb.png" width="30%" height="30%" align="middle"  ><br><br> 
+
+- 打开软件，使用邮箱注册<br>
+<img src="https://user-images.githubusercontent.com/45213050/173999586-b1239d5c-2148-42a9-a9e3-74aa31443749.png" width="30%" height="30%" align="middle"  > <br> 
+  
+- 完成注册获得免费体验时长<br>
+<img src="https://user-images.githubusercontent.com/45213050/173998052-dfa8d3c0-fa1a-4581-a7ff-7d10f436cf67.png" width="30%" height="30%" align="middle"  ><br> 
+
+- 点击“确定”开始体验吧<br>
+<img src="https://user-images.githubusercontent.com/45213050/173998343-02a308df-79d0-4aab-8b2d-08a5a00ef8e1.png" width="30%" height="30%" align="middle"  ><br> 
+
+- 若想要更多免费时长，右上角“点击获取免费流量”，Let's go!<br>
+<img src="https://user-images.githubusercontent.com/45213050/173998558-cb412925-c795-4710-8175-3cc8ee2108d5.png" width="30%" height="30%" align="middle"  ><br><br>
+  
+</p>
+
+
+
+## FAQ   
 - 1.如何获取免费使用时间？
   <br>点击登录后的界面的右上角的黄色按钮，然后会弹出广告。每查看一个广告，会给与您5分钟的免费时间。
 
@@ -57,3 +89,4 @@ Telegram 群: https://t.me/freeinout
   
 ## 相关知识文章链接
 <a href="https://github.com/caddier/vpn_knowledge">点击查看</a>
+
