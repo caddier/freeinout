@@ -8,12 +8,12 @@ Freeinout 是一款Android VPN应用程序，采用最新的防封锁的技术�
 
 
 
-自由行(Freeinout)最新Android版本下载地址：<a href="https://github.com/caddier/freeinout/releases/download/v1.0.13/freeinout-v1.0.13.apk">点击下载</a> &nbsp;&nbsp;<a href="https://github.com/caddier/freeinout/releases/download/v1.0.13/freeinout-v1.0.13.apk">Click to download</a>
+自由行(Freeinout)最新Android版本下载地址：<a href="https://github.com/caddier/freeinout/releases/download/v1.0.13/freeinout-v1.0.13.apk">点击下载</a> &nbsp;&nbsp;<a href="https://github.com/caddier/freeinout/releases/download/v1.0.13/freeinout-v1.0.13.apk">Download</a>
 
 
 Windows7及以上 Windows 7+ 正在开发中...
 
-安卓版 Android(10+)  Google Play <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">点击打开</a> &nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">Click to download</a> 
+安卓版 Android(10+)  Google Play <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">点击打开</a> &nbsp;&nbsp; <a href="https://play.google.com/store/apps/details?id=com.freeinout.android.vpn">Download</a> 
 
 苹果电脑版--暂不支持
 
