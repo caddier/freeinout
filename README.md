@@ -1,6 +1,6 @@
 # Freeinout
 Freeinout is an android VPN application for protecting your network.
-free vpn for ever.
+Free vpn for ever.
 
 Freeinout 是一款Android VPN应用程序，采用最新的防封锁的技术，是一款安全稳定快速的网络代理(VPN)软件，我们承诺永久免费。
 
